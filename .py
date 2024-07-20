@@ -35,6 +35,8 @@ if (x % 400 == 0) or (x % 4 == 0 and x % 400 != 0):
 else:
     print("its not leap year")
 
+
+#------------------ Assigement no 3 part 3 -----------------#
 C = float(input("Enter value you want to change in  kelvin and fahrenheit"))
 
 K = C + 273.15
